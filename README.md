@@ -14,7 +14,7 @@
  
  <br>
 <div> 
-  <a href="https://www.linkedin.com/in/pedro-rocha-955233238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedrorocha-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/elduk/elduk/blob/output/github-contribution-grid-snake.svg)
 
